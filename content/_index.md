@@ -2,9 +2,13 @@
 title: "Welcome to denast.dev!"
 description: "Junior Computer Engineer"
 ---
-**Welcome!**
+{{< typeit tag=h3 >}}
+Welcome! 
+{{< /typeit >}}
 
+{{% ltr %}}
 I'm a junior Computer Engineer, passionate about low-level development, digital security and open-source software.
+{{% /ltr %}}
 
 ---
 
