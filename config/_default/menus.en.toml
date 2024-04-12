@@ -25,6 +25,11 @@
   pageRef = "projects"
   weigth = 3
 
+[[footer]]
+  name = "Source Code"
+  url = "https://github.com/TheDenast/denast.dev"
+  weight = 1
+
 #[[main]]
 #  name = "Blog"
 #  pageRef = "posts"

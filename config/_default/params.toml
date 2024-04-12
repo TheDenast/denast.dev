@@ -5,9 +5,10 @@ enableSearch = true
 enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
+highlightCurrentMenuArea = true
 
 [header]
-layout = "basic"
+layout = "fixed"
 
 [footer]
 showMenu = true
