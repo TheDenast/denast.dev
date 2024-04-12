@@ -1,6 +1,6 @@
 ---
 title: "Welcome to denast.dev!"
-description: "sample text lulz"
+description: "Junior Computer Engineer"
 ---
 **Welcome!**
 
