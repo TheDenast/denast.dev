@@ -29,7 +29,7 @@
 </ul>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="graduation-cap" header="Liceum #1550 '16" subheader="Russian Middle-school Diploma" >}}
+{{< timelineItem icon="graduation-cap" header="Liceum #1550 '16" subheader="Middle-school Diploma, Moscow" >}}
 {{< /timelineItem >}}
 
 {{< /timeline >}}

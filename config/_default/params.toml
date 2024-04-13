@@ -6,6 +6,7 @@ enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
 highlightCurrentMenuArea = true
+defaultBackgroundImage = "wallpaper3.png"
 
 [header]
 layout = "basic"

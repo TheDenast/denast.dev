@@ -1,31 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Denast</title>
+    <title>Projects on Denast</title>
     <link>http://localhost:1313/projects/</link>
-    <description>Recent content on Denast</description>
+    <description>Recent content in Projects on Denast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Denast</copyright>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/projects/project1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>ECG Circuit with filtering</title>
+      <link>http://localhost:1313/projects/ecg/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/project1/</guid>
-      <description></description>
-      
+      <guid>http://localhost:1313/projects/ecg/</guid>
+      <description>I&amp;rsquo;ve completed this project back in 2021, so the code and the report may no longer be maching my current stadards.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/ecg/featured.png" />
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/projects/project2/intex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Elastic 2D Collision Simulation</title>
+      <link>http://localhost:1313/projects/collision/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/project2/intex/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/collision/</guid>
+      <description>Video Preview</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/collision/featured.png" />
+    </item>
+    
+    <item>
+      <title>Simple Linux Shell in C</title>
+      <link>http://localhost:1313/projects/shell/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
+      <guid>http://localhost:1313/projects/shell/</guid>
+      <description>This is a simple Linux Shell written in C.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/shell/featured.png" />
     </item>
     
   </channel>
