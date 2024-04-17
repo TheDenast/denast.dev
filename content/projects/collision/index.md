@@ -1,6 +1,6 @@
 ---
 title: "Elastic 2D Collision Simulation"
-date: 2024-04-13
+date: 2021-05-01
 draft: false
 description: "A C++ Project aiming to provide simplified elastic collision simulation for 2D environment"
 tags: ["C++", "Embedded"]

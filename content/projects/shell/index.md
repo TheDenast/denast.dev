@@ -1,6 +1,6 @@
 ---
 title: "Simple Linux Shell in C"
-date: 2024-04-13
+date: 2023-12-01
 draft: false
 description: "a description"
 tags: ["C","software","linux"]

@@ -9,16 +9,6 @@
     <copyright>© 2024 Denast</copyright>
     <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/c++/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Elastic 2D Collision Simulation</title>
-      <link>http://localhost:1313/projects/collision/</link>
-      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/collision/</guid>
-      <description>Video Preview</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/collision/featured.png" />
-    </item>
-    
-    <item>
       <title>SFML Shoot-em-up Game</title>
       <link>http://localhost:1313/projects/space-shooter/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
@@ -26,6 +16,16 @@
       <guid>http://localhost:1313/projects/space-shooter/</guid>
       <description>This is a hobby project and is very early into its development</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/space-shooter/featured.png" />
+    </item>
+    
+    <item>
+      <title>Elastic 2D Collision Simulation</title>
+      <link>http://localhost:1313/projects/collision/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/collision/</guid>
+      <description>Video Preview</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/collision/featured.png" />
     </item>
     
   </channel>

@@ -3,18 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/projects/ecg/</loc>
-    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/collision/</loc>
-    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -27,14 +15,26 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/shell/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/projects/shell/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/ecg/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/collision/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
