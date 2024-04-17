@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gamedev on Denast</title>
+    <link>http://localhost:1313/tags/gamedev/</link>
+    <description>Recent content in Gamedev on Denast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Denast</copyright>
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/gamedev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SFML Shoot-em-up Game</title>
+      <link>http://localhost:1313/projects/space-shooter/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/space-shooter/</guid>
+      <description>This is a hobby project and is very early into its development</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/space-shooter/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
