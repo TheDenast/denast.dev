@@ -14,7 +14,7 @@
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/space-shooter/</guid>
-      <description>This is a hobby project and is very early into its development</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/space-shooter/featured.png" />
     </item>
     
@@ -24,7 +24,7 @@
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/shell/</guid>
-      <description>This is a simple Linux Shell written in C.</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/shell/featured.png" />
     </item>
     
@@ -34,7 +34,7 @@
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/ecg/</guid>
-      <description>I&amp;rsquo;ve completed this project back in 2021, so the code and the report may no longer be maching my current stadards.</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/ecg/featured.png" />
     </item>
     
@@ -44,7 +44,7 @@
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/collision/</guid>
-      <description>Video Preview</description>
+      <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/collision/featured.png" />
     </item>
     
@@ -54,7 +54,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/education/</guid>
-      <description>&amp;ldquo;Scientia potentia est&amp;rdquo; # Northeastern University &amp;#39;23 B.</description>
+      <description></description>
       
     </item>
     
