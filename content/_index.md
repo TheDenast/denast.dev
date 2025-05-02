@@ -3,16 +3,16 @@ title: "Welcome to denast.dev!"
 description: "Junior Computer Engineer"
 ---
 
-### Welcome! 
+{{< typeit tag=h3 speed=100 >}}
+Welcome to my personal page! 
+{{< /typeit >}}
 
 {{% ltr %}}
-{{< typeit tag=h6 speed=80 >}}
-I'm a junior Computer Engineer, passionate about low-level development, cyber security and open-source software.
-{{< /typeit >}}
+I'm a recent B.S. in Computer Engineering turned Software Engineer. My main fields of interests are Cyber Security, Backend Development and DevOps
 {{% /ltr %}}
 
 ---
 
-{{< button href="Resume.pdf" download="Resume.pdf" target="_blank" >}}
+{{< button href="/docs/01_cv_main.pdf" download="/docs/01_cv_main.pdf" target="_blank" >}}
 Download Resume
 {{< /button >}}

@@ -19,12 +19,13 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
+showAuthor = true
 layout = "background"
-showRecent = false
+showRecent = true
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts"
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
 homepageImage = "wallpaper2-min.png"
